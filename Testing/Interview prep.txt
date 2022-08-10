@@ -1,0 +1,34 @@
+heap vs stack memory
+
+
+char
+int
+double
+
+
+String
+StringBuilder
+StringBuffer
+
+Arrays
+
+List
+ArrayList
+LinkedList
+
+Set
+HashSet
+LinkedHashSet
+TreeSet
+
+Map
+HashMap/HashTable
+LinkedHashMap
+TreeMap
+ConcurrentHashMap
+
+Sorting Collections
+Comparable vs Comparator
+
+
+
